@@ -10,7 +10,8 @@
 ## 교과
 
 아래 폴더에서 작성됩니다.  
-pre  
+pre    
+GRE-math part는 제작중입니다.(redmoon02)
 [AP-Calculus](/calculus/pages.md)(updated 2023-02-21)  
 [통계학](/statistics/pages.md)(updated 2023-02-21)  
 [미시경제학 원론](/micro_economics/pages.md)(updated 2023-02-21)  
